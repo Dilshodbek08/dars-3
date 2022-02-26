@@ -1,0 +1,86 @@
+body{
+  background-color: rgb(133, 148, 109);
+
+}
+
+.h1{
+  background-color:#3e412f;
+  color: #fff;
+  margin: 0 0 20px;
+  padding: 10px;
+  line-height: 40px;
+  border-radius: 4px;
+  
+}
+
+.a1{
+  background-color: rgb(189, 212, 191);
+  margin: 2px 2px 20px;
+  padding: 12px;
+  width: 100px;
+  color: rgb(1, 41, 10);
+  border-radius: 5px;
+  
+}
+
+.a2{
+  background-color: rgb(189, 212, 191);
+  margin: 2px 2px 20px;
+  padding: 12px;
+  width: 100px;
+  color: rgb(1, 41, 10);
+  border-radius: 5px;
+}
+
+.a3{
+  background-color: rgb(189, 212, 191);
+  margin: 2px 2px 20px;
+  padding: 12px;
+  width: 100px;
+  color: rgb(1, 41, 10);
+  border-radius: 5px;
+}
+
+.first-p{
+  background-color: rgb(87, 105, 161);
+  border-radius: 4px;
+  width: 800px;
+  height: 30px;
+}
+
+.task1{
+  background-color: rgb(218, 210, 210);
+  color:rgb(26, 69, 14);
+  
+}
+.headpage{
+  color:brown;
+}
+
+.headpage2{
+  color:brown;
+  font-size:20px;
+}
+
+.headpage3{
+  color:rgb(95, 9, 9);
+  font-size:20px;
+}
+
+.wiki{
+  color:brown
+  
+}
+
+.task2{
+  background-color: rgb(255, 255, 255);
+  color:rgb(26, 69, 150);
+  text-align: left;
+
+}
+
+.task3{
+  background-color: rgb(107, 139, 180);
+  color:rgb(23, 29, 65)
+}
+
